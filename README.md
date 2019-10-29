@@ -28,5 +28,6 @@ serve -s build -p 5000
 
 
 open browser and go http://localhost:5000/login
-user : test_user
-pass : test_pass
+
+- user : test_user
+- pass : test_pass
