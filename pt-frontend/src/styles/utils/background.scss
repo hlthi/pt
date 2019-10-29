@@ -1,0 +1,18 @@
+@import "globals";
+
+.transparent-background {
+    background: transparent !important;
+}
+
+.primary-background {
+    background: $primary-color !important;
+}
+
+.primary-dark--background {
+    background: $primary-dark-color !important;
+}
+
+
+.gray--background {
+    background: #d0d0d0 !important;
+}

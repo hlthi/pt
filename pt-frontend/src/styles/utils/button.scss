@@ -1,0 +1,16 @@
+@import "globals";
+
+.ui.button{
+
+  &.switch-button{
+    width: 150px;
+    &.left{
+      border-radius: 15px 0 0 15px!important;
+    }
+
+    &.right{
+      border-radius: 0 15px 15px 0!important;
+    }
+
+  }
+}

@@ -1,0 +1,6 @@
+.ui.button.switch-button {
+  width: 150px; }
+  .ui.button.switch-button.left {
+    border-radius: 15px 0 0 15px !important; }
+  .ui.button.switch-button.right {
+    border-radius: 0 15px 15px 0 !important; }

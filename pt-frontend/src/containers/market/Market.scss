@@ -1,0 +1,18 @@
+.market-container{
+  padding: 30px;
+  width: 100%;
+  background: #ffffff;
+
+  .ReactTable{
+    height: calc(100vh - 200px);
+  }
+
+  .mini-image{
+    max-height: 60px;
+    max-width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+}

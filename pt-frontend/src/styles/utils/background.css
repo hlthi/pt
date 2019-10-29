@@ -1,0 +1,20 @@
+.transparent-background {
+  background: transparent !important; }
+
+.primary-background {
+  background: #008489 !important; }
+
+.primary-dark--background {
+  background: #006A70 !important; }
+
+.secondary-background {
+  background: #FF5A5F !important; }
+
+.secondary-light--background {
+  background: #FF5A5F !important; }
+
+.secondary-dark--background {
+  background: #821E2B !important; }
+
+.gray--background {
+  background: #d0d0d0 !important; }

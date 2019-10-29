@@ -1,0 +1,6 @@
+.ui.input.janjan-input input {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important; }
+  .ui.input.janjan-input input:focus {
+    border-color: #E93840; }
+.ui.input.normal-input input {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important; }

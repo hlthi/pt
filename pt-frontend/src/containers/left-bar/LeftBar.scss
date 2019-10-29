@@ -1,0 +1,24 @@
+.left-bar{
+  width: 80px;
+  min-height: 400px;
+  height: 100vh;
+  background: #1320F0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+  .top{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  img.icon-button{
+    margin: 15px 0;
+    width: 52px;
+    height: auto;
+  }
+
+}

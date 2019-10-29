@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+
+// Set your brand colors
+$red: #E93840;
+$pink: #FA7C91;
+
+
+
+// Update Bulma's global variables
+$family-sans-serif: "Open Sans", sans-serif;
+$primary: $red;
+$link: $pink;
+$widescreen-enabled: false;
+$fullhd-enabled: false;
+
+
+
+
+
+// project utils
+@import "utils/device";
+@import "utils/border";
+@import "utils/text";
+@import "utils/background";
+@import "utils/margin-padding";
+@import "utils/color";
+@import "utils/size";
+@import "utils/general";
+@import "utils/flex";
+
+
+@import "../../node_modules/bulma/bulma";
